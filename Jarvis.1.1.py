@@ -11,7 +11,7 @@ import random
 as any work which human's do and is done by computer then it is termed as AI'''
 
 print("Intializing Your Jarvis AI Desktop Assistent")
-MASTER="ANKIT"
+MASTER="ANKIT" #user name 
 
 engine=pyttsx3.init('sapi5') #in order to use inbuild voices given by windows through api sapi5
 voices=engine.getProperty('voices')
